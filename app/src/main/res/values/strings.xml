@@ -2,4 +2,8 @@
     <string name="app_name">AboutMe</string>
     <string name="Title">About Me</string>
     <string name="Name">Charles Agustin</string>
+
+
+    <string name="myphotoDescription">myPhoto</string>
+    <string name="Bio">""I am a 20-year-old male from Santa Fe, Nueva Vizcaya, born on March 30, 2004. My motto in life is \'Innovate, adapt, and elevate.\' I am passionate about technology, problem-solving, and innovation. My characteristics include being passionate, analytical, and a tech enthusiast, always striving to push boundaries and create impactful solutions. And of course, one more thing about me—pogi!" 😎</string>
 </resources>
