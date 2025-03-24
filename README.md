@@ -9,8 +9,7 @@ Welcome to the AboutMe repository! This project is written in Kotlin and serves 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+
 
 ## Introduction
 
@@ -48,15 +47,4 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 4. Push to the branch (`git push origin feature/YourFeature`)
 5. Open a pull request
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-You can reach me at:
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- Twitter: [Your Twitter Profile](https://twitter.com/your-profile)
-
-Thank you for visiting my repository!
